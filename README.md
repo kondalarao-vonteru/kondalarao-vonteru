@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kondalarao-vonteru
 - 👀 I’m interested in Coding, Debugging & Learning new things.
 - 🌱 I’m currently learning Architectural design to grow my skills in my current job and on a personal level I am spending my time on Investing & Portfolio management .
-- 💞️ I’m looking to collaborate on AI/ML projects. You can check some of the work that I have done in this space in my GitHub account and also on the Kaggle(https://www.kaggle.com/sunnysai12345)
+- 💞️ I’m looking to collaborate on AI/ML projects. You can check some of the work that I have done in this space in my GitHub account(https://github.com/sunnysai12345) and also on the Kaggle(https://www.kaggle.com/sunnysai12345)
 - 📫 How to reach me
   -  Gmail - sunnysai12345@gmail.com
   -  Linked in - https://www.linkedin.com/in/kondalarao-vonteru-3339a058/
